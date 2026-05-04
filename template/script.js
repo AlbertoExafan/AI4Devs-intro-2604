@@ -1,3 +1,4 @@
 function reversestring(texto) {
-    console.log(texto.split("").reverse().join(""));
+    let textoInvertido = texto.split("").reverse().join("");
+    alert(textoInvertido);
 }

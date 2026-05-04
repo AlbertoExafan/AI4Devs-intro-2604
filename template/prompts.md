@@ -6,3 +6,4 @@ CHATGPT
 
 ------------------------------------------------
 
+ahora haz que la función reverse string (hazlo en javascript puro, no uses jquery ni ninguna otra librería) muestre el string al revés (como lo has puesto con la función "reverse"), pero que en vez de mostrarlo por consola lo muestre en un alert.
